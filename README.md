@@ -1,1 +1,1 @@
-HSReplay beta v0.15.13.23
+HSReplay beta v1.0.5.24
