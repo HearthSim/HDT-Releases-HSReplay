@@ -1,1 +1,1 @@
-HSReplay beta v1.0.5.29
+HSReplay v1.1.0 (Now on https://github.com/HearthSim/HDT-Releases)
